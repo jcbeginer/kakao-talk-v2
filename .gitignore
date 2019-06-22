@@ -74,3 +74,6 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+# 여기부터 강의에서 한 것.
+.DS_Store
